@@ -13,7 +13,7 @@ Replace the placeholders below in your first Friday (Phase 1), then commit.
 - **Persona:** Kunene Retail Group
 - **Student A:** Mpho Senooe
 - **Student B:** Joshua van Zyl
-- **The platform in one paragraph:** _(write this in Phase 1 and refine it all year — what you are building, for whom, and why it matters to the business)_
+- **The platform in one paragraph:** _(The aim of this project is to build a   secure cloud infrastructure that supports the retail operations of the Kunene Retail Group, hereafter referred to as KRG. The infrastructure must be able to securely support the processing of secure payment card information across KRG's distributed retail chains, in addition to the online e-commerce platform. It must also be able to handle seasonal spikes in demand, where the infrastructure must have the ability to demonstrate elasticity.)_
 
 ## How this repository is organised
 
