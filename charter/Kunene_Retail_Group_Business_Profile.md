@@ -8,7 +8,6 @@
 
 - **Project Group:** Pair 2
 
-
 ## 1. BUSINESS OVERVIEW & DIGITAL TRANSFORMATION
 
 Kunene Retail Group is a growing, simulated South African multi-branch retailer transitioning from traditional in-store tills to e-commerce and electronic card payments. The objective of this project is to design a secure, code-defined platform that supports business expansion while safeguarding sensitive data and ensuring high availability. Moving online increases the number of interacting systems and users, requiring robust protection for customer personal data, online accounts, orders, payment transactions, store endpoints, administrator accounts, and inventory records.
@@ -23,12 +22,13 @@ Kunene Retail Group is a growing, simulated South African multi-branch retailer 
 
 ### Key Growth Pressures
 
-	- Higher online transaction & customer data volumes
+```
+- Higher online transaction & customer data volumes
+```
 
 - Expanded attack surface with more systems & endpoints
 
 - Greater need for continuous service reliability during peaks
-
 
 ## 2. CRITICAL BUSINESS ASSETS
 
@@ -42,12 +42,11 @@ Kunene Retail Group is a growing, simulated South African multi-branch retailer 
 | **Orders & Inventory Data** | Essential for core retail operations, order fulfilment, and customer service. |
 
 
-
 ## 3. SECURITY PRIORITIES, POPIA RELEVANCE & STAKEHOLDERS
 
 ### Core Security Priorities
 
-- Protect personal and payment-related information
+- Protect personal and payment-related information as mandated by the PCIDSS
 
 - Control system/data access & protect user/employee accounts
 
@@ -65,10 +64,11 @@ Kunene Retail Group is a growing, simulated South African multi-branch retailer 
 
 Retail and online activities process personal information (names, contact details, delivery addresses, transaction records). POPIA requires meeting conditions for lawful processing and applying appropriate security safeguards.
 
+As KRG processes payment card information, it is also required to meet all security obligations as required by the PCIDSS.
+
 ### Key Stakeholders (Identified & Assumed)
 
 Customers, store employees, branch management, business management, IT & security personnel, payment/technology service providers, and product vendors.
-
 
 ## 4. PROJECT ASSUMPTIONS & SCOPE BOUNDARIES
 
