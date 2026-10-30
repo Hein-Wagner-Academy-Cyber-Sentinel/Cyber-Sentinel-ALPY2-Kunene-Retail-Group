@@ -60,7 +60,7 @@ Kunene Retail Group is a growing, simulated South African multi-branch retailer 
 
 - Apply POPIA safeguards & avoid storing unnecessary sensitive data
 
-### POPIA Compliance Relevance
+### POPIA & PCIDSS Compliance Relevance
 
 Retail and online activities process personal information (names, contact details, delivery addresses, transaction records). POPIA requires meeting conditions for lawful processing and applying appropriate security safeguards.
 
@@ -74,7 +74,7 @@ Customers, store employees, branch management, business management, IT & securit
 
 ### Project Assumptions
 
-- Operates multiple physical branches connected to business systems
+- Operates 30 physical branches connected to business systems; 10 in the Western-Cape, 10 in Gauteng, 5 in Eastern Cape and 5 in Kwazulu-Natal.
 
 - Uses an online retail platform & electronic payment services
 
