@@ -6,16 +6,18 @@ This document will serve as the collection for all my reflections throughout thi
 
 For Phase 1, I do feel like it's a little early to make a concrete reflection, but I'll try my best to oblige.
 
-As we are still very early in this pronect, I do feel ever so slightly overwhelmed at the task ahead of us. I guess I still have that habit of taking something and running very much far ahead. 
+As we are still very early in this pronect, I do feel ever so slightly overwhelmed at the task ahead of us. I guess I still have that habit of taking something and running very much far ahead.
 
 I should just remember to take this in little chunks, baby steps if you will.
 
 I definitely have to give Mpho credit, she really took the initiave this phase while I was out of action with the flu i caught. She really took the initiative to get things started. I definitely will pay it back this coming phase.As a result, my role this phase was to ensure thae documentation conformed to all requirements, and there were several edits and additions that were made.
 
-
-
 One thing I need to get used to is using Nano. Thus far we have been using a mixture of Notepad, MS Word with Writage (regrettably it turns out that add-in requires a 30USD licence per person after 14 days, so that one is out,) and MarkText. I am also exploring other options for documentation to help with the ease of creating and editing Markdown files.
+
+
+My primary role was to check that the business charter, POPIA compliance report,business profile and threat model was accurate to what would be reasonable. In addition, I was also responsible for figuring out the working protocol in regards to document styling and branch management. Basically a big part of my duties this phase included laying the plumbing for how document management is to be done. Figuring out Git was something….it still confuses me a little, but we’ll figure it out.
 
 I am excited to see where we go with this project. There's still many a thing i need to learn.
 
 ==End of log==
+
